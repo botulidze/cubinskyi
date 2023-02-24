@@ -17,6 +17,8 @@ color = "" #color from the theme settings
 
 Following text is a fantasy, any connection with reality is purely coincidental.
 
+# more
+
 ## Intro
 
 The day we developed human-like AI has finally become.
