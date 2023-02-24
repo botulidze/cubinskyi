@@ -13,11 +13,11 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-##Disclaimer
+## Disclaimer
 
 Following text is a fantasy, any connection with reality is purely coincidental.
 
-##Intro
+## Intro
 
 The day we developed human-like AI has finally become.
 A group of scientists confirmed their model was able to pass turing test.
