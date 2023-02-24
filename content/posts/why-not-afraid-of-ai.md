@@ -17,7 +17,7 @@ color = "" #color from the theme settings
 
 Following text is a fantasy, any connection with reality is purely coincidental.
 
-# more
+<!--more-->
 
 ## Intro
 
